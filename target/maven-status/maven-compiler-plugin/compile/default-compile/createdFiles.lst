@@ -1,0 +1,5 @@
+com\example\guesstimates\repository\QuestionRepository.class
+com\example\guesstimates\model\Question.class
+com\example\guesstimates\controller\QuestionController.class
+com\example\guesstimates\service\QuestionService.class
+com\example\guesstimates\GuesstimatesApplication.class
